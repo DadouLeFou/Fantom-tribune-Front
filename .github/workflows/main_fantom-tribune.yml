@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'fantom-tribune'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_09A51BA61A8542DFB62847E9C7619311 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7A9CB6D2C3AC49E78845FDC149E94632 }}
           package: .
